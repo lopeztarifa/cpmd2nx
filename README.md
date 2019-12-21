@@ -1,4 +1,4 @@
-## CPMD2NX 
+## cpmd2nx 
 ### A simple tool to convert a CPMD TRAJECTORY into NewtonX input folders.  
 This tool reads a TRAJECTORY CPMD file and cuts it into TRAJ#'s folders ready to run NewtonX.
 Source files are containded in /src:
