@@ -17,3 +17,4 @@ To run the code you need as input:
 
 ### OUTPUT                                                                                               
  The output is a bunch of TRAJ# folders containing geom, veloc and GEOMETRY.xyz files.                                
+
